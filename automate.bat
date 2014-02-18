@@ -1,0 +1,1 @@
+"..\R\R-3.0.1\bin\R.exe" CMD BATCH --vanilla --slave "..\getBusData.R"
